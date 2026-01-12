@@ -1,0 +1,5 @@
+Id,ProductName,Price,IsActive,Category,Rating
+1,Samsung S24,35000,True,Telefon,3.8
+2,Samsung S25,45000,True,Telefon,4.4
+3,Iphone 15,65000,True,Telefon,4.8
+4,Iphone 14 Pro,60000,True,Telefon,4.5
