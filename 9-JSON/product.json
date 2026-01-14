@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "title": "Hp Victus",
+  "price": 45000,
+  "rating": 4.3,
+  "category": "Bilgisayar",
+  "colors": [
+    "black",
+    "gray",
+    "blue"
+  ]
+}
